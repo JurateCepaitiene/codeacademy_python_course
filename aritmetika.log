@@ -1,0 +1,16 @@
+2022-06-08 19:34:15,066:DEBUG:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:34:26,424:DEBUG:Dalyba: 10 / 5 = 2.0
+2022-06-08 19:39:46,551:ERROR:Dalyba: 10 / 0 negalima
+2022-06-08 19:39:46,551:DEBUG:Dalyba: 10 / 0 = None
+2022-06-08 19:40:13,667:INFO:Dalyba: 10 / 0.1 padalinom
+2022-06-08 19:40:13,668:DEBUG:Dalyba: 10 / 0.1 = None
+2022-06-08 19:40:55,575:INFO:Dalyba: 10 / 100 = 0.1
+2022-06-08 19:40:55,577:DEBUG:Dalyba: 10 / 100 = None
+DEBUG:root:Dalyba: 10 / 5 = 2.0
+2022-06-08 20:29:42,215:INFO:__main__:Dalyba: 10 / 5 = 2.0
+2022-06-08 20:31:06,899:ERROR:__main__:Dalyba is nulio
+Traceback (most recent call last):
+  File "c:\phyton_kursas\ID_verify\logging course\main2.py", line 17, in dalyba
+    rezultatas = a / b
+ZeroDivisionError: division by zero
+2022-06-08 20:31:06,905:INFO:__main__:Dalyba: 20 / 0 = None
