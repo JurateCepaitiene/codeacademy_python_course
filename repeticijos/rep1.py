@@ -41,4 +41,7 @@
 # print(sarasas)
 # print(daugiau_nei_2(naujas_sarasas))
 
+while True:
+print("Hello world")
+
 
