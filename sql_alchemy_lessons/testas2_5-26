@@ -1,0 +1,3 @@
+import datetime
+sukaktis = datetime.datetime(2000, 1, 1, 12, 00, 00)
+print (datetime.datetime.now()-sukaktis)
